@@ -48,7 +48,7 @@ Each file starts with a header like this:
 
 | # | Problem | Difficulty | Concept | Status |
 |---|---------|------------|---------|--------|
-| 1757 | Recyclable and Low Fat Products | Easy | WHERE, AND | ⬜ |
+| 1757 | Recyclable and Low Fat Products | Easy | WHERE, AND | ✅ |
 | 584 | Find Customer Referee | Easy | NULL handling | ⬜ |
 | 595 | Big Countries | Easy | WHERE, OR | ⬜ |
 | 1148 | Article Views I | Easy | DISTINCT, ORDER BY | ⬜ |
