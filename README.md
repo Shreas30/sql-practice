@@ -51,7 +51,7 @@ Each file starts with a header like this:
 | 1757 | Recyclable and Low Fat Products | Easy | WHERE, AND | ✅ |
 | 584 | Find Customer Referee | Easy | NULL handling, WHERE, OR | ✅ |
 | 595 | Big Countries | Easy | WHERE, OR | ✅ |
-| 1148 | Article Views I | Easy | DISTINCT, ORDER BY | ⬜ |
+| 1148 | Article Views I | Easy | DISTINCT, ORDER BY | ✅ |
 | 1683 | Invalid Tweets | Easy | LENGTH, WHERE | ⬜ |
 | 1378 | Replace Employee ID With The Unique Identifier | Easy | LEFT JOIN | ⬜ |
 | 1068 | Product Sales Analysis I | Easy | JOIN | ⬜ |
