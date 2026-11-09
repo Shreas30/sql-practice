@@ -52,7 +52,7 @@ Each file starts with a header like this:
 | 584 | Find Customer Referee | Easy | NULL handling, WHERE, OR | ✅ |
 | 595 | Big Countries | Easy | WHERE, OR | ✅ |
 | 1148 | Article Views I | Easy | DISTINCT, ORDER BY | ✅ |
-| 1683 | Invalid Tweets | Easy | LENGTH, WHERE | ⬜ |
+| 1683 | Invalid Tweets | Easy | LENGTH, WHERE | ✅ |
 | 1378 | Replace Employee ID With The Unique Identifier | Easy | LEFT JOIN | ⬜ |
 | 1068 | Product Sales Analysis I | Easy | JOIN | ⬜ |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | LEFT JOIN, GROUP BY | ⬜ |
