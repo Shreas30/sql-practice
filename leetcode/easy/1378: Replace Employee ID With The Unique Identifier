@@ -1,0 +1,10 @@
+-- LeetCode 1378: Replace Employee ID With The Unique Identifier
+-- Difficulty: Easy
+-- Concept: LEFT JOIN
+-- Approach: Use LEFT JOIN to retain all employees,
+-- including those without a matching unique_id.
+
+SELECT EmployeeUNI.unique_id, Employees.name
+FROM Employees
+LEFT JOIN EmployeeUNI
+    ON Employees.id = EmployeeUNI.id;
