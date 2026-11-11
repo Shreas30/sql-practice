@@ -1,0 +1,10 @@
+
+-- LeetCode 1068: Product Sales Analysis I
+-- Difficulty: Easy
+-- Concept: LEFT JOIN, Table Aliases
+-- Approach: Join Sales with Product using product_id
+-- to retrieve the product name for each sale.
+
+SELECT p.product_name, s.year, s.price
+FROM Sales s LEFT JOIN Product p
+    ON s.product_id = p.product_id;
