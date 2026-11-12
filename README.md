@@ -56,7 +56,7 @@ Each file starts with a header like this:
 | 1378 | Replace Employee ID With The Unique Identifier | Easy | LEFT JOIN | ✅ |
 | 1068 | Product Sales Analysis I | Easy | JOIN | ✅ |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | LEFT JOIN, GROUP BY | ⬜ |
-| 197 | Rising Temperature | Easy | Self join, date functions | ⬜ |
+| 197 | Rising Temperature | Easy | Self join, date functions | ✅ |
 | 1661 | Average Time of Process per Machine | Easy | Self join, AVG | ⬜ |
 
 Legend: ⬜ not started, ✅ solved
